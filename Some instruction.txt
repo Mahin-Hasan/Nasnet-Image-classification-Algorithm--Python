@@ -1,0 +1,5 @@
+1. Download the image sample from the provided link.
+2. store the sample in a folder name dataset.
+3. Download the csv file also.
+4. First run the pre processing code.
+5. Run the nasnet model code 2 times as sometime it gives error for the first time of execution.
